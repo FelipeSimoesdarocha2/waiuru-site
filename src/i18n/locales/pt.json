@@ -1,0 +1,873 @@
+{
+  "app": {
+    "title": "Soluções Para Condomínios | Waiuru",
+    "og_title": "Waiuru - Soluções para condomínios",
+    "og_site_name": "Soluções Para Condomínios | Waiuru",
+    "og_description": "Soluções para condomínios na palma da mão. Reserva de áreas comuns, comunicados, acesso a portaria e muito mais. Experimente agora mesmo!"
+  },
+  "home": {
+    "hero": {
+      "title": "Uma vida mais simples",
+      "sub_title": "Conheça o Waiuru: Transformando a vida em Comunidade",
+      "text": "Encontre soluções integradas, modernas e práticas para a administração de condomínios.",
+      "action": {
+        "label": "Cadastre-se",
+        "label_mobile": "Solicitar demonstração"
+      }
+    },
+    "necessaryTechnology": {
+      "title": "Porque é necessário ter uma tecnologia própria dentro do condomínio",
+      "sub_title": "Trabalhamos com o que há de mais moderno e eficiente para a sua gestão de condomínio. Nós analisamos todos os maiores problemas deste mercado e encontramos a melhor solução.",
+      "title_problems": "Problemas",
+      "list_problems": {
+        "unknown_people": "Pessoas desconhecidas circulando pelo condomínio;",
+        "receive_orders": "Desorganização para receber encomendas;",
+        "difficulty_renting": "Dificuldade para alugar espaços internos do seu condomínio;",
+        "temporary_stayers": "Pessoas de estadia temporária circulando sem controle;",
+        "lack_of_knowledge": "Falta de conhecimento para os balanços fiscais;",
+        "flyers_or_posters": "Excesso panfletos ou cartazes desatualizados no quadro de aviso do condomínio"
+      },
+      "title_solutions": "Nós criamos as SOLUÇÕES",
+      "list_solutions": {
+        "recognition_system": "Sistema de reconhecimento para pessoas que transitam nos espaços internos;",
+        "creating_standardization": "Criação de Padronização e Sistema de Encomendas;",
+        "space_rental": "Sistema gerenciável de Aluguel de espaços do condomínio;",
+        "manageable_system": "Sistema de controle de acesso para visitantes",
+        "revenue_stream": "Criação de padronização para fluxo de receitas",
+        "integrated_residents": "Sistema de Comunicação atualizado e integrado para moradores,administradores e funcionários"
+      },
+      "video": {
+        "title": "Nosso produto é a sua solução",
+        "sub_title": "A proposta de gerenciamento de condomínios atráves de aplicativos é uma realidade e nós trazemos a solução mais completa de mercado. "
+      }
+    },
+    "admin": {
+      "title": "Para você, que é síndico ou administrador",
+      "sub_title": "Nossa plataforma é revolucionária voltada para a gestão de condomínios e comunidades.",
+      "list": {
+        "management_control": "Gestão e controle de acesso de visitantes e ambientes",
+        "control_system": "Controle de Moradores integrado nas nossas\nplataformas",
+        "occurrence_System": "Sistema de Ocorrências",
+        "payment_system": "Rede Social própria para comunicação e\ninteratividade de condomínios, moradores e\nfuncionários."
+      },
+      "action": {
+        "label": "Ver funcionalidades"
+      }
+    },
+    "residents": {
+      "title": "Para os moradores do seu condomínio",
+      "sub_title": "Na Waiuru, o compromisso é com os moradores para proporcionar soluções inovadoras que tornam a\nexperiência de viver em comunidade mais fluída e agradável.",
+      "list": {
+        "visitor_control": "Controle de visitantes e reserva de áreas de lazer",
+        "payment_system": "Sistema de pagamento online e manutenção",
+        "portal_access": "Acesso ao Portal da Transparência para fluxo de\ndespesas",
+        "control_system": "Sistema de controle de visitantes e comunicação\ninterativa"
+      },
+      "action": {
+        "label": "Ver funcionalidades"
+      },
+      "download": "Disponível para download"
+    },
+    "employees": {
+      "title": "Para os funcionários do seu condomínio",
+      "sub_title": "Potencializamos o desempenho dos funcionários e do seu condomínio com nosso aplicativo exclusivo. Eles\npodem se comunicar, organizar tarefas e registrar o ponto de forma prática e eficaz.",
+      "list": {
+        "employee_management": "Gestão de funcionários de forma simples",
+        "activity_control": "Controle de atividades",
+        "maintenance_management": "Gestão de manutenção e ocorrências",
+        "check_point": "Controle de Ponto"
+      },
+      "action": {
+        "label": "Ver funcionalidades"
+      },
+      "download": "Disponível para download"
+    },
+    "everything": {
+      "title": "O que faz o Waiuru ser diferente?",
+      "sub_title": "Tudo que faz o Waiuru",
+      "description": "O Waiuru foi pensado para ajudar pessoas, através de valores como\ncomunidade, comunicação, tecnologia e amor. Aqui somos motivados para\nsimplificar e auxiliar a sua jornada. Todos os dias testamos nossos produtos e\nacreditamos que nossas funcionalidades são o diferencial para você.",
+      "list": {
+        "technology": "Tecnologia",
+        "communication": "Comunicação",
+        "community": "Comunidade",
+        "love": "Amor"
+      },
+      "action": {
+        "label": "Saber mais"
+      }
+    },
+    "doubt": {
+      "title": "Dúvidas? Antes, dá uma olhada aqui",
+      "list": {
+        "one": {
+          "title": "Como faço para solicitar uma demonstração?",
+          "paragraph": "Vá até a página da Demo e preencha nosso formulário. Nossa equipe entrará em contato com você e personalizará a sua experiência."
+        },
+        "two": {
+          "title": "Você personaliza a experiência por unidade?",
+          "paragraph": "Com certeza. Sabemos que as necessidades podem variar de propriedade para propriedade. Por isso, estamos 24 hs disponíveis para ouvir, orientar e ajudar os nossos clientes."
+        },
+        "three": {
+          "title": "É caro ter uma ferramenta no meu condomínio?",
+          "paragraph": "Oferecemos o melhor em tecnologia e comunicação para condominios e comunidades. O preço do nosso produto está coerente com a realidade do mercado. "
+        },
+        "four": {
+          "title": "É fácil cadastrar moradores no aplicativo?",
+          "paragraph": "Sim. Após baixar o aplicativo, por meio do QR-COde, o usuário fará o primeiro acesso no Waiuru. Ele criará uma senha e ativará o cadastro na plataforma."
+        },
+        "five": {
+          "title": "Caso tenha dificuldade, vocês orientam como usar o Waiuru?",
+          "paragraph": "Com certeza. Temos o descritivo do passo a passo e também atendimento personalizado pelo Chat, redes sociais e telefone."
+        },
+        "six": {
+          "title": "Consigo criar e enviar avisos, enquetes e ocorrências de forma digital?",
+          "paragraph": "Sim. Na plataforma Waiuru, todos os comunicados circulam de forma digital. É possível escrever, corrigir, enviar e receber informações de forma rápida e eficiente.  "
+        },
+        "seven": {
+          "title": "Os moradores terão espaço exclusivo para divulgar produtos e serviços dentro do condomínio?",
+          "paragraph": "Essa é mais uma vantagem do Waiuru para o morador. Ele pode divulgar produtos e ofertar serviços usando feramentas exclusivas, como o Chat e as Atividades"
+        },
+        "eight": {
+          "title": "É possível agendar serviços de manutenção no Waiuru?",
+          "paragraph": "Sim. Basta ir na Home do aplicativo e clicar na ferramenta Manutenção Predial. Nela, o usuário consegue agendar e acompanhar o serviço."
+        },
+        "nine": {
+          "title": "Tem como avisar o morador que a encomenda chegou, sem precisar ligar para ele?",
+          "paragraph": "Com certeza. Com o aplicativo do morador, o prórprio residente acessa a Home e clica em Encomendas. Nessa ferramenta, ele monitora se o produto chegou e agiliza a retirada, sem a necessidade de esperar a portaria avisar. Além disso, tem  também o Chat - meio de comunicação instantaneo e eficiente. "
+        },
+        "ten": {
+          "title": "Consigo ter o controle da presença dos funcionários no aplicativo Waiuru?",
+          "paragraph": "Sem dúvidas. Essa é mais uma facilidade para Sindicos e Administradores. Basta clicar na ferramenta “Controle de Funcionários” na home do aplicativo e  acessar as informações."
+        },
+        "eleven": {
+          "title": "É possível lançar contas e gerar relatórios de forma rápida e organizada?",
+          "paragraph": "Sim. A ferramenta Portal de Transparência permite o lançamento de contratos, registro de fluxo de caixa, folha de pagamento e muito mais."
+        }
+      }
+    }
+  },
+  "solutions": {
+    "link": {
+      "available": "Disponíveis",
+      "on_the": "na",
+      "and": "e"
+    },
+    "control": {
+      "title": "Clique em uma das opções"
+    },
+    "administrators": {
+      "label": "waiuru a solução perfeita",
+      "title": "Administrador e Síndico ",
+      "sub_title": "Administre com quem entende do assunto.Waiuru está sempre buscando soluções rápidas e eficientes para gerir a vida em comunidade. ",
+      "sub_title_secondaty": "Essa é a aposta mais segura para você e para seu condomínio.",
+      "sub_title_tertiary": "",
+      "label_mobile": "waiuru e você em comunidade",
+      "title_mobile": "Para você, síndico ou administrador",
+      "sub_title_mobile": "Texto sobre como os moradores são importantes para comunidade e como as soluções da Waiuru afirmam isso.",
+      "action": {
+        "label": "Solicitar demonstração"
+      },
+      "benefits": {
+        "title": "Conheça todos os benefícios",
+        "list": {
+          "payment": "Pagamento mais rápido de taxas e contas condominiais através do app",
+          "lost_and_found": "Sistema de Controle de Achados e Perdidos",
+          "visits": "Segurança ao gerenciar todas as visitas",
+          "environment_reserves": "Sistema de Controle e Gerenciamento de Reservas de Ambientes",
+          "occurrences": "Sistema de Controle para ocorrências",
+          "communication": "Sistema de Comunicação integrado na plataforma",
+          "ordinance": "Gerenciamento de Portaria",
+          "information": "Mais clareza na administração e informações em tempo real"
+        }
+      },
+      "ourSolutions": {
+        "title": "Nossas soluções vão para além do\ngerenciamento de dados",
+        "title_mobile": "Conheça mais sobre nossas soluções",
+        "sub_title": "Desenvolvemos produtos que são ideais para a gestão de condomínios e comunidades.",
+        "view_more": "Ver mais"
+      }
+    },
+    "employees": {
+      "label": "waiuru investindo no desenvolvimento",
+      "title": "Funcionários",
+      "sub_title": "Bem-vindo ao aplicativo oficial de funcionários",
+      "sub_title_secondaty": "Com o Waiuru, você aprimora a qualidade das tarefas executadas e otimiza o tempo de produção. ",
+      "label_mobile": "waiuru e você em comunidade",
+      "title_mobile": "Para seus funcionários",
+      "sub_title_mobile": "Texto sobre como os moradores são importantes para comunidade e como as soluções da Waiuru afirmam isso.",
+      "action": {
+        "label": "Solicitar demonstração"
+      },
+      "benefits": {
+        "title": "Conheça todos os benefícios",
+        "list": {
+          "activities": "Sistema de Gerenciamento de Atividades",
+          "maintenance": "Sistema de Gerenciamento de Manutenções",
+          "schedules": "Controle de ponto para horários ",
+          "visitors": "Controle de Acesso para Visitantes",
+          "lost_and_found": "Sistema de Achados e Perdidos",
+          "orders": "Controle de Encomendas",
+          "occurrences": "Sistema de Gerenciamento de Ocorrências",
+          "employees": "Sistema de Comunicação integrado entre Administração e Funcionários"
+        }
+      },
+      "ourSolutions": {
+        "title": "Nossas soluções vão para além dos funcionários",
+        "title_mobile": "Conheça mais sobre nossas soluções",
+        "sub_title": "Desenvolvemos produtos que são ideais para a gestão de condomínios e comunidades.",
+        "view_more": "Ver mais"
+      }
+    },
+    "resident": {
+      "label": "waiuru construindo comunidades",
+      "title": "Moradores",
+      "sub_title": "Bem-vindo ao aplicativo oficial de residente.",
+      "sub_title_secondaty": "Com ferramentas intuitivas, você executa tarefas do dia a dia de forma eficiente, e fica bem informado sobre a vida em seu condomínio.",
+      "sub_title_tertiary": "Essa experiência imersiva acontece dentro de um ambiente seguro e com a melhor tecnologia do mercado.",
+      "label_mobile": "waiuru e você em comunidade",
+      "title_mobile": "Para seus moradores",
+      "sub_title_mobile": "Texto sobre como os moradores são importantes para comunidade e como as soluções da Waiuru afirmam isso.",
+      "action": {
+        "label": "Solicitar demonstração"
+      },
+      "benefits": {
+        "title": "Conheça todos os benefícios",
+        "list": {
+          "service": "Acesso a um serviço personalizado ",
+          "online_voting": "Sistema de Votação e Assembléia Online",
+          "visits": "Segurança para gerenciar as visitas",
+          "payment": "Rapidez no pagamento de taxas e contas condominiais ",
+          "orders": "Agilidade no recebimento de encomendas",
+          "lost_and_found": "Acesso instântaneo às informações dos Achados e Perdidos",
+          "condominium_environments": "Reserva de Espaços e Ambientes do condomínio",
+          "communication": "Canal de comunicação exclusivo para moradores e a Administração do condomínio"
+        }
+      },
+      "ourSolutions": {
+        "title": "Nossas soluções vão para além dos moradores",
+        "title_mobile": "Conheça mais sobre nossas soluções",
+        "sub_title": "Desenvolvemos produtos que são ideais para a gestão de condomínios e comunidades.",
+        "view_more": "Ver mais"
+      }
+    },
+    "config": {
+      "title_mobile": "Veja como nosso aplicativo é completo para sua comunidade",
+      "title_one": "Waiuru ",
+      "title_bold_one": "é completo ",
+      "title_two": "para sua ",
+      "title_bold_two": "comunidade",
+      "sub_title": "Escolha uma das opções",
+      "screen": {
+        "presentation": {
+          "title": "Ver a  Apresentação",
+          "action": "Solicitar demo gratuita",
+          "functionalities": "Funcionalidades Relacionadas",
+          "watch": "Assista ao video"
+        },
+        "functionalities": {
+          "title": "Ver todas as Funcionalidades"
+        }
+      }
+    },
+    "functionalities": {
+      "access_control": {
+        "title": "Controle de Acesso",
+        "sub_title": "#Administração #Moradia #Gestão",
+        "paragraph": "A ferramenta permite ao residente controlar a chegada, permanência e saída do visitante.Com chaves virtuais e o processo automatizado, receber visitas ou alugar se torna uma experiência segura e eficiente.  ",
+        "action": "Cadastre-se Conosco"
+      },
+      "online_voting": {
+        "title": "Votação Online",
+        "sub_title": "#Administração #Moradia #Gestão",
+        "paragraph": "Que tal participar da gestão do seu condomínio? Com Waiuru você participa votando. Como? Bem, Tendo pauta, o sininho Toca! …. esse aqui…. no canto direito da sua tela. Aí é só clicar em Votação online no seu app e votar! Desativa a piscina? Sim ou não? Nesse espaço você também filtra o placar da votação.E propõe pautas! Mas de interesse coletivo",
+        "action": "Cadastre-se Conosco"
+      },
+      "chat": {
+        "title": "Chat",
+        "sub_title": "#Administração #Moradia #Gestão",
+        "paragraph": "Quer perguntar algo ao vizinho ou esclarecer uma situação com a Administração do seu condomínio?Use o “Chat” no seu app Waiuru  Essa é mais uma ferramenta do Waiuru feita para tornar a sua vida em comunidade uma experiência dinâmica e proveitosa.Vamos lá: comunique, pergunte, interaja com o Chat",
+        "action": "Cadastre-se Conosco"
+      },
+      "feed": {
+        "title": "Feed",
+        "sub_title": "#Administração #Moradia #Gestão",
+        "paragraph": "Reúne as ferramentas que você precisa",
+        "action": "Cadastre-se Conosco"
+      },
+      "transparency_portal": {
+        "title": "Portal Transparência",
+        "sub_title": "#Administração #Moradia #Gestão",
+        "paragraph": "Informação sobre a gestão do seu condomínio",
+        "action": "Cadastre-se Conosco"
+      },
+      "online_payment": {
+        "title": "Sistema de pagamento online",
+        "sub_title": "#Administração #Moradia #Gestão",
+        "paragraph": "Quer facilidades para pagar as contas relacionadas ao seu condomínio? Waiuru mostra o caminho,abra seu aplicativo de condomínios, vá até a Homepage e clique em Sistema de Pagamento Online. Nesse espaço, você paga, de onde estiver, as despesas de condomínio e tudo fica registrado no seu histórico de pagamentos. Gostou? Isso é Waiuru",
+        "action": "Cadastre-se Conosco"
+      },
+      "my_expenses": {
+        "title": "Minhas despesas",
+        "sub_title": "#Administração #Moradia #Gestão",
+        "paragraph": "Administre as contas pagas e em aberto",
+        "action": "Cadastre-se Conosco"
+      },
+      "recreationa_area": {
+        "title": "Área de lazer",
+        "sub_title": "#Administração #Moradia #Gestão",
+        "paragraph": "Querendo fazer aquela festa na área da piscina?Reserve agora!Abra o seu app Waiuru, clique em Áreas de Lazer e escolha a opção desejada.Quando terminar a reserva, você consegue compartilhá-la com seus convidados.Genial, não é?Isso é Waiuru, feito para você e para o mundo",
+        "action": "Cadastre-se Conosco"
+      },
+      "employee_control": {
+        "title": "Controle de funcionário",
+        "sub_title": "#Administração #Moradia #Gestão",
+        "paragraph": "Acompanhe aqueles que cuidam do seu condomínio",
+        "action": "Cadastre-se Conosco"
+      },
+      "orders": {
+        "title": "Encomendas",
+        "sub_title": "#Administração #Moradia #Gestão",
+        "paragraph": "Encomendou um farol para o seu carro e quer confirmar com a portaria se ele chegou? Calma. Antes de ir até lá, abra seu app Waiuru, vá até a homepage, clique em Encomendas e obtenha essa informação. Caso tenha chegado, agilize a retirada escaneando o QR-Code que será gerado. Feito isso, o porteiro recebe a sua solicitação e autoriza a retirada.",
+        "action": "Cadastre-se Conosco"
+      },
+      "book_of_occurrences": {
+        "title": "Livro de Ocorrências",
+        "sub_title": "#Administração #Moradia #Gestão",
+        "paragraph": "Viu água empoçada na área do seu condomínio ou ficou preso no elevador? Esses e outros fatos semelhantes devem ser registrados. Como? Abra seu app Waiuru, vá até a Homepage e clique em 'Livro de Ocorrências'. Esse espaço, criado pelo Waiuru, torna o cuidado com seu condomínio uma experiência coletiva.",
+        "action": "Cadastre-se Conosco"
+      },
+      "activities": {
+        "title": "Atividades",
+        "sub_title": "#Administração #Moradia #Gestão",
+        "paragraph": "Exercitar o corpo e a mente sem sair de casa pode ser uma boa alterantiva, hein?Abra seu aplicativo Waiuru, vá até a Homepage e clique em Reserva de Atividades. Nesse espaço, você fica atualizado sobre as atividades que estão acontecendo no seu condomínio. Dias, horários, condições….Toda essa facilidade é mais um estímulo para você cuidar da sua saúde.Vamos?",
+        "action": "Cadastre-se Conosco"
+      },
+      "vehicle_registration": {
+        "title": "Cadastro de veículos",
+        "sub_title": "#Administração #Moradia #Gestão",
+        "paragraph": "Vai hospedar um visitante em seu apartamento e precisa registrar o veículo dele para o uso da garagem? Abra seu app de condomínios, clique em 'Cadastro de Veículos' e preencha as informações solicitadas. Ah, caso você tenha trocado de carro, faça a atualização de cadastro no mesmo espaço. Esta é mais uma maneira que o Waiuru encontrou para tornar a sua vida em comunidade uma experiência segura e prazerosa para todos.",
+        "action": "Cadastre-se Conosco"
+      },
+      "pet_registration": {
+        "title": "Cadastro de Pets",
+        "sub_title": "#Administração #Moradia #Gestão",
+        "paragraph": "Sabia que no aplicativo de condomínios Waiuru, você tem um espaço exclusivo para registrar seu animalzinho? Abra seu app, vá até a Homepage, clique em Cadastro de Pets e preencha as informações solicitadas. O cadastramento permite identifciar os bichinhos e os seus donos. Isso é Waiuru! Trazendo mais segurança para você e para os outros moradores.",
+        "action": "Cadastre-se Conosco"
+      },
+      "building_maintenance": {
+        "title": "Manutenção predial",
+        "sub_title": "#Administração #Moradia #Gestão",
+        "paragraph": "Foi malhar e percebeu que uma das paredes da academia precisa de reparos? Abra seu aplicativo Waiuru, vá até 'Manutenção Predial' e registre a ocorrência. Isso se chama gestão colaborativa e fortalece nossa relação enquanto comunidade.",
+        "action": "Cadastre-se Conosco"
+      },
+      "resident_profile": {
+        "title": "Perfil do morador",
+        "sub_title": "#Administração #Moradia #Gestão",
+        "paragraph": "Quem não gosta de um serviço customizado? No app Waiuru, para condomínios, você adquire a própria página personalizada no momento em que ativa o cadastro e faz o perfil. Construa esse elo entre Waiuru e você. Seja bem vindo a nossa comunidade",
+        "action": "Cadastre-se Conosco"
+      },
+      "tasks": {
+        "title": "Tarefas",
+        "sub_title": "#Administração #Moradia #Gestão",
+        "paragraph": "Informação sobre os  colaboradores do seu condomínio",
+        "action": "Cadastre-se Conosco"
+      },
+      "timecard": {
+        "title": "Cartão de ponto",
+        "sub_title": "#Administração #Moradia #Gestão",
+        "paragraph": "Quer uma forma fácil e rápida de acessar a frequencia dos seu funcionários?Abra o seu app de condomínios, vá até a homepage e clique em Cartão de Ponto Nesse espaço, você encontra de forma personalizada os registros de dias e horários de cada funcionário.Curtiu?",
+        "action": "Cadastre-se Conosco"
+      },
+      "lost_and_found": {
+        "title": "Achados e perdidos",
+        "sub_title": "#Administração #Moradia #Gestão",
+        "paragraph": "Já perdeu algo na área do seu condomínio ou encontrou um objeto perdido? é importante estar preparado para quando isso acontecer.Na homepage do seu aplicativo Waiuru, você encontra a ferramenta Achados e Perdidos.Nesse espaço, você cadastra o objeto encontrado e tem maiores chances de encontrar aquele que você perdeu.",
+        "action": "Cadastre-se Conosco"
+      }
+    }
+  },
+  "about": {
+    "whoAreWe": {
+      "sub_title": "waiuru e você em comunidade",
+      "title": "Quem somos nós?",
+      "text": "Waiuru é o status de excelência para administradores de propriedades e moradores que visam maximizar a experiência em comunidade.",
+      "text_l2": "Com um software dinâmico e um portal interativo você opera com facilidade tarefas do dia a dia e fica sempre bem informado sobre a vida no condomínio.",
+      "text_mobile": "Waiuru é o status de excelência para\nadministradores de condomínios que\nvisam maximizar a experiência em\ncomunidade. ",
+      "technology": "Tecnologia",
+      "community": "Comunidade",
+      "love": "Amor"
+    },
+    "solutionsSection": {
+      "title": "O que nos faz ser tão apaixonados por ",
+      "title_bold": "nossas soluções",
+      "paragraph": "O Waiuru foi pensado para ajudar pessoas, através de valores como comunidade, comunicação, tecnologia e amor. Aqui somos motivados para simplificar e auxiliar a sua jornada.  Todos os dias testamos nossos produtos e acreditamos que nossas funcionalidades são o diferencial para você.",
+      "list": {
+        "technology": "Tecnologia",
+        "communication": "Comunicação",
+        "community": "Comunidade",
+        "love": "Amor"
+      }
+    },
+    "ourTeamSection": {
+      "title": "Conheça quem faz o Waiuru acontecer",
+      "paragraph": "Descubra o brilho por trás do Waiuru. Nosso time combina tecnologia e talentos únicos para criar soluções\nideais para a sua comunidade.",
+      "list": {
+        "technology": "Tecnologia",
+        "communication": "Comunicação",
+        "community": "Comunidade",
+        "love": "Amor"
+      }
+    },
+    "ourTechnologySection": {
+      "title": "Nossa tecnologia",
+      "sub_title": "A tecnologia que usamos para fornecer a melhor experiencia para moradores, funcionarios e sindicos.",
+      "list": {
+        "go": {
+          "title": "GoLang",
+          "description": "Esta linguagem de programação open-source é utilizada no desenvolvimento do backend do Waiuru devido à sua eficiência e facilidade de manutenção. A GoLang oferece alta velocidade na execução e simplicidade na criação de programas multi-thread, o que faz dela a escolha perfeita para a construção de um aplicativo escalável e de alto desempenho."
+        },
+        "react": {
+          "title": "React & React Native",
+          "description": "Utilizamos a biblioteca JavaScript React para o desenvolvimento da interface do usuário na web, e o React Native para a construção do aplicativo móvel. Ambas as tecnologias proporcionam alto desempenho e facilitam o desenvolvimento simultâneo em diferentes plataformas (iOS e Android para o React Native), compartilhando grande parte do código entre elas."
+        },
+        "script": {
+          "title": "JavaScript e TypeScript",
+          "description": "Essas duas linguagens de programação são utilizadas tanto no front-end Waiuru. O TypeScript, uma extensão tipada do JavaScript, oferece um ambiente de desenvolvimento mais seguro e eficiente, melhorando a qualidade do código e facilitando a manutenção."
+        },
+        "google_cloud": {
+          "title": "Google Cloud Platform (GCP):",
+          "description": "Essas duas linguagens de programação são utilizadas tanto no front-end Waiuru. O TypeScript, uma extensão tipada do JavaScript, oferece um ambiente de desenvolvimento mais seguro e eficiente, melhorando a qualidade do código e facilitando a manutenção."
+        }
+      }
+    },
+    "ourSolutions": {
+      "title": "Conheça mais sobre nossas soluções",
+      "sub_title": "Descubra o brilho por trás do Waiuru. Nosso time combina tecnologia e talentos únicos para criar..."
+    }
+  },
+  "news": {
+    "hero": {
+      "title": "Acompanhe as notícias do universo Waiuru",
+      "sub_title": "Fique por dentro de todas as novidades e notícias do mundo da tecnologia e condomínios.",
+      "action": {
+        "label": "Ver últimas notícias"
+      }
+    },
+    "highlights": {
+      "title": "Acompanhe os nossos",
+      "title_bold": "destaques"
+    },
+    "latestNewsSection": {
+      "title": "Últimas notícias",
+      "input": {
+        "name": "Pesquisar"
+      }
+    },
+    "list": {
+      "create_at": {
+        "published": "Publicada em",
+        "the": "de",
+        "day": "dias atrás",
+        "month": "mês atrás",
+        "today": "Publicado hoje"
+      },
+      "indexOne": {
+        "slug": "participe-da-gestao-do-seu-condominio",
+        "title": "Gestão do Seu Condomínio",
+        "paragraph": "Na gestão 100% digital, proporcionada pela Waiuru, a vida em comunidade ganha um novo sentido. Além dos softwares ágeis facilitando...",
+        "body": {
+          "one": "PARTICIPE DA GESTÃO DO SEU CONDOMÍNIO",
+          "two": "Na gestão 100% digital, proporcionada pela Waiuru, a vida em comunidade ganha um novo sentido. Além dos softwares ágeis facilitando o dia a dia, o condômino tem espaço para votar sobre assuntos de interesse coletivo.",
+          "three": "Prova disso, é o “Votação online” disponível na Home do seu aplicativo de condomínio.  Nesse espaço, você participa votando - sim/não- e consegue filtrar o status da votação, o que lhe permite, por exemplo, obter o resultado da votação que tenha sido encerrada.",
+          "four": "Participe da gestão do seu condomínio: votando e propondo pautas.",
+          "five": "Poder contar com esse recurso é fundamental, pois viver em comunidade significa dividir espaços, cultivar valores e condutas que unem os indivíduos, mas também respeitar as  opiniões e subjetividades de cada um.",
+          "six": "Fique atento às notificações do sininho na parte superior direita do seu aplicativo. Sempre que  houver um tema a ser votado, o sininho emitirá um alerta. É o sinal para você acessar a “Votação online” e exercer, com responsabilidade, o seu voto."
+        }
+      },
+      "indexTwo": {
+        "slug": "ative-seu-cadastro-e-navegue-em-um-mundo-de-possibilidades",
+        "title": "Ative seu Cadastro",
+        "paragraph": "Nunca foi tão fácil gerenciar a própria vida em condomínio...",
+        "body": {
+          "one": "Nunca foi tão fácil gerenciar a própria vida em condomínio. Graças a Waiuru, empresa de gerenciamento de Condomínios e Comunidades, você tem uma gama de serviços ao seu dispor e em um único aplicativo. Tudo pensado e construído para atender de forma rápida e eficiente as suas necessidades.",
+          "two": "Quer ver?",
+          "three": "Abra o aplicativo de condomínios no seu celular, ative o seu cadastro e faça o seu perfil. Agora, com sua página personalizada, você terá acesso a este mundo de facilidades, por meio dos serviços disponíveis na Home do seu aplicativo.",
+          "four": "Na Home, você encontra Serviços Emergenciais; Livro de ocorrências; Portal da transparência; Achados e Perdidos; Atividades; Encomenda; Area de Lazer; Votação online; Minhas Despesas; Manutenção Predial; Chat; Visitante Temporário.",
+          "five": "Com tantas facilidades, você vai querer compartilhar esse aplicativo com seus amigos. Vá em frente!"
+        }
+      },
+      "indexThree": {
+        "slug": "tudo-em-um-unico-aplicativo",
+        "title": "Tudo em um único Aplicativo",
+        "paragraph": "Já imaginou reunir em um único aplicativo tudo o que você precisa para viver bem...",
+        "body": {
+          "one": "Já imaginou reunir em um único aplicativo tudo o que você precisa para viver bem? O Waiuru cumpre com essa função. Munida de expertise e conhecimento, a empresa de gerenciamento de Condomínios e Comunidades, coloca na palma da sua mão facilidades do dia a dia que você nem imaginava ser possível.",
+          "two": "Preocupado por não saber como alugar seu apartamento de maneira segura e eficiente? Com receio de não conseguir agendar, a tempo, o salão de festas do condomínio?",
+          "three": "Pois é. Na Home do nosso aplicativo, você encontra essas e outras soluções. Afinal, são muitos serviços à sua disposição",
+          "four": "No serviço 'Visitante temporário', por exemplo, você adiciona o seu hóspede, controla o período de estadia dele no seu apartamento e libera, por meio de um QR code, o acesso ao imóvel. Já no serviço 'Área de Lazer', você reserva, de forma rápida, o espaço e o dia para realizar a sua festa. Pagamentos, a depender do salão, também são feitos e registrados no seu histórico de morador.",
+          "five": "Ative o seu cadastro, faça o seu perfil e se permita esse mundo de facilidades em um único aplicativo."
+        }
+      },
+      "indexFour": {
+        "slug": "a-seguranca-na-palma-da-sua-mao",
+        "title": "A segurança na palma da sua mão",
+        "paragraph": "A Waiuru é uma empresa de gerenciamento de Condomínios e Comunidades que surgiu para tornar...",
+        "body": {
+          "one": "A segurança na palma da sua mão - CONHEÇA A NOSSA FERRAMENTA",
+          "two": "A Waiuru é uma empresa de gerenciamento de Condomínios e Comunidades que surgiu para tornar a vida em comunidade mais eficiente e segura. Cumprindo com esse objetivo, criou o “Controle de Visitantes”. A ferramenta, disponível no aplicativo da Waiuru para condomínios, cuida da sua segurança. Instalado no aparelho celular, a tarefa de controlar quem entra e sai do condomínio, torna-se uma experiência automatizada, ágil e coletiva.",
+          "three": "Síndicos, condôminos e portarias preparem-se para desfrutar dessa praticidade",
+          "four": "Com uma operação totalmente virtual e ao alcance das suas mãos, você adquire outras vantagens, como mobilidade e otimização do tempo. Afinal, aquele procedimento arcaico de ligar para o condômino, anunciar a chegada do visitante e esperar pela autorização - será feito em segundos e de onde você estiver.",
+          "five": "Veja como é simples",
+          "six": "Entre no Waiuru app, clique em “Controle de Visitantes” e solicite uma “Liberação de acesso”. Rapidamente, a portaria emitirá um QR Code e é só você compartilhar com seu convidado.",
+          "seven": "Ao chegar, o seu convidado deverá abrir o leitor de QR Code Waiuru e apontar para a imagem do QR Code na portaria. Pronto! Automaticamente será registrado o acesso na portaria."
+        }
+      },
+      "indexFive": {
+        "slug": "sua-encomenda-chegou-atualize-a-retirada",
+        "title": "Sua encomenda Chegou?",
+        "paragraph": "Quer saber se a sua encomenda está na portaria? Não precisa ir imediatamente até lá. Com o aplicativo do morador...",
+        "body": {
+          "one": "Sua encomenda Chegou? Agilize a retirada",
+          "two": "Quer saber se a sua encomenda está na portaria? Não precisa ir imediatamente até lá. Com o aplicativo do morador, você consulta, primeiro, se o produto chegou e agiliza a retirada dele.",
+          "three": "Veja como é simples:",
+          "four": "Vá até a página Home do seu aplicativo e clique no serviço “Encomenda”.",
+          "five": "Na sua Lista de Encomendas, você descobre se o item chegou.",
+          "six": "Se chegou, é só agilizar a retirada escaneando o QR-CODE que será gerado. Feito isso, o porteiro recebe a sua solicitação, e a autorização para a retirada é concedida.",
+          "seven": "Esse é o propósito da Waiuru, startup de gerenciamento de Condomínios e Comunidades, que cria facilidades para a sua vida."
+        }
+      },
+      "indexSix": {
+        "slug": "algo-incomum-aconteceu-registre-no-applicativo-do-waiuru",
+        "title": "Algo incomum aconteceu?",
+        "paragraph": "Chega de perder tempo escrevendo no papel o que aconteceu nas dependências do...",
+        "body": {
+          "one": "Algo incomum aconteceu? Registre no aplicativo do Waiuru",
+          "two": "Chega de perder tempo escrevendo no papel o que aconteceu nas dependências do seu condomínio. Esse método, além de gastar desnecessariamente a sua energia, também é pouco funcional. Papéis acumulam poeira, molham, rasgam.",
+          "three": "Com o serviço “Livro de ocorrência”, disponível na Home do seu aplicativo, a evolução acontece. Através de uma interface fácil, rápida e acessível você registra virtualmente o fato incomum e alerta a todos sobre o ocorrido.",
+          "four": "O elevador que, de repente, parou de funcionar; a água empossada no piso do playground, são exemplos de situações que devem ser registradas.",
+          "five": "E para consultar o andamento de uma ocorrência, use os filtros: Todas; Fechadas; Pendentes ou Abertas.",
+          "six": "Com o serviço “Livro de ocorrência” você ganha tempo e mobilidade, pois esteja onde você estiver, no conforto do seu apartamento, no trânsito, no trabalho - é só abrir o celular, acessar e notificar."
+        }
+      },
+      "indexSeven": {
+        "slug": "voce-reconhece-a-importância-do-porteiro",
+        "title": "Você reconhece a importância do porteiro?",
+        "paragraph": "O porteiro é a essência da entrada de um condomínio, aquele que não apenas abre portas, mas também se torna o ponto de referência para a comunidade.",
+        "body": {
+          "one": "Adentrar um espaço e não encontrar alguém para nos receber pode criar uma sensação de vazio e desconexão. É nesse momento que a figura do porteiro se torna evidente e valiosa. Ele é muito mais do que alguém que simplesmente dá boas-vindas.",
+          "two": "O porteiro é a essência da entrada de um condomínio, aquele que não apenas abre portas, mas também se torna o ponto de referência para a comunidade.",
+          "three": "Além disso, o porteiro desempenha um papel vital na manutenção da ordem cotidiana do condomínio. É ele quem acompanha e controla as operações diárias, ajudando a garantir que tudo funcione sem problemas, desde a distribuição de correspondências até a coordenação das entregas.",
+          "four": "Neste 9 de junho, o parabéns especial vai para ele. Porteiro, Feliz Dia! ",
+          "five": "Do you feel secure in your home?",
+          "six": "Returning home at the end of the workday or after a trip brings an indescribable sense of comfort and security. This is because your home is your haven. But why is it that sometimes, after entering or leaving, you turn back to double-check if you've truly locked the door? We are humans, and at times forgetfulness can make this haven vulnerable, jeopardizing your security.",
+          "seven": "Whether living in houses or condominiums, technological or human errors can occur, as reported by the State of Minas Gerais newspaper in January of this year. On that occasion, men forcibly entered and burglarized an apartment in the Glória neighborhood of Belo Horizonte (Brazil). The condominium had security cameras and an alarm system. Unfortunately, this incident is not an isolated case."
+        }
+      },
+      "indexEight": {
+        "slug": "segurança-residencial-um-ativo-que-vale-a-pena",
+        "title": "Segurança residencial: um ativo que vale à pena",
+        "paragraph": "",
+        "body": {
+          "stepOne": {
+            "title": "",
+            "one": "Até onde você iria para se sentir mais seguro? Na correria do dia a dia, não pensamos muito. Você sai de casa e tranca a porta, entra no carro e coloca o cinto, chega ao trabalho e passa pelo leitor de identificação. Esses mecanismos contribuem para a sua segurança e também daqueles que o cercam. ",
+            "two": "Interessante perceber que a palavra segurança está em diversas áreas da atividade humana. Graças às inovações na área automobilística, por exemplo, é possível, ao usar o cinto de segurança, reduzir o risco de morte em até 50% entre motoristas e passageiros dos bancos dianteiros, e em 25% entre passageiros dos bancos traseiros.\nOs dados,\n que são da Organização Mundial da Saúde (OMS), revelam a importância desse importante ativo na vida das pessoas.",
+            "three": "Na cidade do Rio de Janeiro, destino turístico mais visitado do Brasil, um aplicativo fornece ao cidadão informações, em tempo real, de ocorrências policiais, roubos, entre outros. A inovação, de acordo com o site Diário do Rio,visa acabar com a falta de transparência e aumentar a circulação de informações que possam ajudar na segurança das pessoas.  Esse é mais um exemplo da relevância desse recurso na sociedade.",
+            "four": "Na Cidade do México, dois vagões de trem caíram de um viaduto causando a morte de mais de 20 pessoas. Uma investigação inicial concluiu que houve falha na construção original da estrutura, conforme noticiou o site da BBC News. Esse é mais um exemplo da relevância do atributo segurança na sociedade."
+          },
+          "stepTwo": {
+            "title": "Você se sente seguro em seu lar?",
+            "one": "Voltar para casa no final do expediente ou no retorno de uma viagem traz uma sensação de conforto e segurança indescritíveis. Isso acontece porque o seu lar é o seu porto seguro. Mas por que às vezes, após entrar ou sair de casa, você dá meia volta para conferir se realmente trancou a porta? Somos humanos, uma hora ou outra o esquecimento pode tornar esse porto seguro vulnerável e comprometer a sua própria segurança.",
+            "two": "Seja vivendo em casa ou em condomínios, situações indesejáveis como arrombamentos, roubos, furtos são suscetíveis de acontecer, como noticiou o Jornal Estado de Minas Gerais, em janeiro deste ano. Na ocasião, homens arrombaram e furtaram um apartamento no bairro Glória, em Belo Horizonte. O fato, infelizmente, não é um caso isolado."
+          },
+          "stepThree": {
+            "title": "Invista em comunicação e tecnologia ",
+            "one": "De nada adianta equipar o condomínio com câmeras de segurança, se os porteiros não tiverem um procedimento de checagem de quem entra e sai da propriedade. Os esforços também serão em vão se os moradores não entenderem que vivem em comunidade e precisam zelar por ela. Como juntar, então, tecnologia e  comunicação e obter uma segurança efetiva? Waiuru é a inovação que vai aumentar ao máximo a segurança dos moradores e funcionários da sua propriedade residencial. ",
+            "two": "Quer um exemplo? Com o sistema de gerenciamento do Waiuru, cada morador adquire autonomia e responsabilidade para liberar a entrada do visitante, por meio de uma chave virtual, gerada no próprio aplicativo do morador. De forma articulada, a ação gera um QR-code que será enviado simultaneamente à portaria, e quando o visitante chega, ele só entra na propriedade mediante a leitura de confirmação desse dispositivo. "
+          }
+        },
+        "other": {
+          "title": "Conheça outras soluções tecnológicas do Waiuru:",
+          "explore": {
+            "title": "* Segurança para os visitantes",
+            "one": "Controle do acesso por Qr-code",
+            "two": "Receba suas encomendas de forma segura",
+            "three": "Contribua para a segurança do seu pet"
+          }
+        }
+      },
+      "indexNine": {
+        "slug": "comunicação-e-tecnologia-uma-parceria-de-sucesso",
+        "title": "Comunicação e tecnologia: uma parceria de sucesso",
+        "paragraph": "",
+        "body": {
+          "one": "Já prestou atenção na força da comunicação no meio digital? E em como uma linguagem direcionada pode mobilizar pessoas? Há pouco mais de uma década, o jornal Extra, um dos mais populares da cidade do Rio de Janeiro, lançou um projeto que consistia no uso do WhatsApp na cobertura jornalística. Pessoas do Brasil e do exterior começaram a mandar informações solicitadas pela redação. Não demorou, e a participação do público propondo pautas diversas, para além do esperado, tornou-se realidade. A iniciativa foi noticiada como “sucesso” pela Latam Journalism Review.",
+          "two": "Os desempenhos do veículo noticioso e da plataforma WhatsApp, que, a título de informação, já obteve mais de 1 bilhão de downloads na sua versão Business - provocam-nos no mínimo duas reflexões. Primeiro, à necessidade de o indivíduo se comunicar e de se sentir parte de algo. Segundo, a comunicação no ambiente digital, dada, entre outros, a instantaneidade e a velocidade com que a informação se propaga, é capaz de mobilizar pessoas. ",
+          "three": "É claro que há o lado B, como tudo na vida.  Um vídeo publicado no site do The New York Times sobre a invasão do Capitólio dos Estados Unidos, a título de exemplo, vale de alerta. No episódio do dia 6 de janeiro, centenas de apoiadores de Donald Trump, por não aceitarem o resultado das eleições presidenciais de 2020, marcharam na direção do coração político do país, na cidade de Washington. A mobilização, que colocou o dia como marco na história norte-americana, foi ensejada por Trump, através das redes sociais. ",
+          "four": "Agora, fica a reflexão. Pense, caro leitor, em como a comunicação no ambiente digital tem transformado a sua vida. Ela tem sido um instrumento de integração em prol de uma melhoria coletiva? Você consegue somar com o vizinho ao lado e tornar a sua comunidade um lugar melhor?",
+          "five": "Conheça o Waiuru! A plataforma, que tem como pilares a Comunicação, Controle e Comunidade, conta com aplicativos dinâmicos e intuitivos feitos especialmente para moradores, funcionários e administradores de propriedades. Experimente e viva dia a dia o significado da palavra comunidade. "
+        }
+      },
+      "indexTen": {
+        "slug": "ferramentas-tecnológicas-melhoram-tarefas-do-cotidiano",
+        "title": "Ferramentas tecnológicas melhoram tarefas do cotidiano",
+        "paragraph": "",
+        "body": {
+          "one": "Engana-se quem pensa que os robôs substituirão o trabalho humano. Na verdade, a tecnologia baseada em automação e Inteligência Artificial (IA) tem trazido benefícios para a sociedade em diversas frentes.",
+          "two": "No campo da medicina, cirurgias assistidas por robôs ajudam médicos a realizarem o procedimento com mais rapidez e precisão. Com uma câmera que gera imagens de alta resolução, o robô, que conta com pinças articuladas, recebe o comando do médico e executa o movimento com exatidão. A inovação recebe o nome de cirurgia robótica.",
+          "three": "Na América do Norte, uma pesquisa realizada pela Pew Research Center revelou que seis em cada dez americanos já usaram aplicativos para pagamento (Venmo, Zelle ou Cash App) em razão da facilidade de realizar as transações. O fato de outras pessoas conhecerem e usarem a plataforma, bem como a possibilidade de dividir despesas, também foram benefícios apontados pelos entrevistados.",
+          "four": "Tais exemplos vão ao encontro do que disse o especialista em desenvolvimento de softwares, Vitor Barros, sobre o pensamento de que robôs podem substituir o trabalho humano. “A automação é de tarefas repetitivas e desgastantes. Isso faz com que nós, seres humanos, possamos nos concentrar naquilo que de fato requer a nossa inteligência, inclusão e diversidade”, disse em entrevista. Veja na íntegra aqui.",
+          "five": "Waiuru, startup de gerenciamento de condomínios e comunidades, é um exemplo de inovação em comunicação e tecnologia. Entre as soluções desenvolvidas pela plataforma, tem-se o aplicativo do morador. Nele, Chat, Encomendas, Livro de Ocorrências funcionam de forma integrada, permitindo ao morador informar e obter informação em tempo real."
+        }
+      },
+      "indexEleven": {
+        "slug": "rede-social-integrada-para-condominio-e-solucao-pioneira-da-startup-waiuru",
+        "title": "Rede social integrada para condomínio é solução pioneira da startup Waiuru",
+        "paragraph": "O Waiuru está um passo à frente ao oferecer uma Rede Social integrada como parte fundamental de sua plataforma. Esta ferramenta não apenas promove uma comunicação eficiente, mas também fortalece os laços comunitários, gerando um impacto positivo na qualidade de vida dos moradores.",
+        "body": {
+          "one": "Já imaginou viver em um condomínio onde a comunicação flui de maneira transparente e os moradores se sentem verdadeiramente conectados?",
+          "two": "O Waiuru está um passo à frente ao oferecer uma Rede Social integrada como parte fundamental de sua plataforma. Esta ferramenta não apenas promove uma comunicação eficiente, mas também fortalece os laços comunitários, gerando um impacto positivo na qualidade de vida dos moradores.",
+          "three": "É tipo um Feed do Instagram, só que com as notícias e informações sobre seu condomínio.",
+          "four": "Para isso foi desenvolvido um aplicativo oficial de residente do Waiuru. Com ferramentas intuitivas e uma experiência imersiva, onde é possível executar tarefas do dia a dia de forma eficiente e ficar bem informado sobre a vida dentro do condomínio, tudo isso em um ambiente seguro e com a melhor tecnologia do mercado.",
+          "five": "Nossa plataforma proporciona um ambiente virtual seguro e confiável onde os moradores podem compartilhar experiências, discutir ideias e organizar eventos, tudo isso com apenas alguns cliques.",
+          "six": "Clique aqui para garantir um teste drive dessa experiência",
+          "seven": "'Nosso objetivo é criar uma comunidade onde todos se sintam parte de algo maior. Com a Rede Social do Waiuru, estamos promovendo uma interação mais próxima entre os moradores, incentivando a colaboração e o engajamento em prol do bem-estar comum', destaca Alana Nascimento, Gerente de Marketing e Comercial do Waiuru..",
+          "eight": "Além de promover a integração social, a Rede Social do Waiuru oferece funcionalidades práticas que facilitam o dia a dia dos moradores. Com recursos como reservas de áreas comuns, comunicação de ocorrências e solicitação de serviços de manutenção, nossa plataforma torna a vida em condomínio mais fácil e conveniente.",
+          "nine": "Com um layout intuitivo e personalizável, a Rede Social do Waiuru está otimizada para proporcionar uma experiência de usuário excepcional. E o melhor de tudo? Ela está disponível para todos os condomínios que utilizam a plataforma Waiuru, sem custo adicional.",
+          "ten": "Se você deseja transformar a vida em comunidade e promover uma convivência mais harmoniosa, conheça a Rede Social do Waiuru. Junte-se a nós nesta jornada rumo a um condomínio mais unido e conectado!",
+          "eleven": "Para mais informações sobre a Rede Social do Waiuru e outras soluções oferecidas pela empresa, visite https://waiuru.com/pt ou cadastre-se https://waiuru.com/pt/register",
+          "twelve": "Sobre o Waiuru:",
+          "thirteen": "O Waiuru é uma empresa líder em soluções integradas para administração de condomínios, oferecendo uma ampla gama de serviços e tecnologias inovadoras para facilitar a vida em comunidade. Desde controle de acesso até gestão de ocorrências, o Waiuru está comprometido em fornecer soluções práticas e eficientes para condomínios de todos os tamanhos.",
+          "fourteen": "Para mais informações, entre em contato:",
+          "fifteen": "Assessoria de Imprensa: julia@waiuru.com"
+        }
+      }
+    }
+  },
+  "newsVisualize": {
+    "highlights": {
+      "title": "Mais notícias"
+    }
+  },
+  "register": {
+    "header": {
+      "sub_title": "CADASTRE-SE CONOSCO",
+      "title": "Garanta a melhor solução para o seu condomínio",
+      "text": "Nosso sistema de gerenciamento e controle de condomínios foi feito para quem quer aumentar a qualidade dos seus serviços."
+    },
+    "form": {
+      "title_p1": "Leve o ",
+      "title_p2": " com você pelo mundo.",
+      "text": "Realize seu cadastro e faça parte da nossa rede internacional de condomínios e comunidades.",
+      "text_p1": "A evolução em gestão de condomínios na palma da sua mão, faça como os",
+      "text_p2": " 246 usuários",
+      "text_p3": "espalhos ao redor do mundo.",
+      "fields": {
+        "name": "Nome do condominio ou gerenciadora",
+        "city": "Cidade/UF",
+        "email": "Email",
+        "phone": "Telefone",
+        "total_units": "Quantas unidades no total? ",
+        "affiliate": "Referência - Afiliado"
+      },
+      "action": {
+        "label": "Cadastrar"
+      }
+    },
+    "carousel": {
+      "title": "O que estão falando do Waiuru"
+    },
+    "ourSolutions": {
+      "title": "Conheça mais sobre nossas soluções",
+      "view_more": "Ver mais"
+    },
+    "depositions": {
+      "ana": {
+        "profession": "Síndica ",
+        "paragraph": "Depois que o Waiuru iniciou a jornada conosco, ficou muito mais fácil a comunicação com os moradores e os funcionários. Hoje eu não passo aperto com os comunicados."
+      },
+      "joao": {
+        "profession": "Administrador ",
+        "paragraph": "Temos mais de 30 condomínios na nossa operadora, todos eles usam dessa plataforma. Além de ser rápido, o suporte é 24 horas - fico muito aliviado com a garantia de qualidade."
+      },
+      "paulo": {
+        "profession": "Sindico",
+        "paragraph": "Saber todas as minha atividades e trocar a comunicação com a minha unidade é incrível. O Aplicativo permite o controle de acesso de visitantes e eu consigo gerenciar todo o serviço da portaria. Minha produtividade está a 1000%."
+      }
+    }
+  },
+  "contact": {
+    "title": "Fale conosco",
+    "sub_title": "Mande uma mensagem para gente!",
+    "sub_title_mobile": "Mande uma mensagem para nós e tire suas principais dúvidas",
+    "form": {
+      "input": {
+        "name": "Nome",
+        "email": "Email",
+        "phone": "Nº para contato",
+        "description": "Descreva sua dúvida ou solicitação"
+      },
+      "action": {
+        "label": "Enviar"
+      },
+      "error": "Ocorreu um erro. Por favor, verifique as informações e tente novamente.",
+      "error_mobile": "Ocorreu um erro. Tente novamente."
+    },
+    "submit": {
+      "action": {
+        "label": "Enviar nova solicitação",
+        "label_mobile": "Enviar nova"
+      },
+      "title": "Solicitação recebida!",
+      "sub_title": "Acompanhe sua caixa de emails. Enviaremos todos os detalhes por lá em até 5 dias úteis."
+    }
+  },
+  "form": {
+    "title": "Solicite uma demonstração gratuita",
+    "sub_title": "Entre em contato conosco e realize um teste com a nossa plataforma.\nEstamos ansiosos para te atender.",
+    "about": {
+      "title": "Condôminos já estão usando a Waiuru",
+      "paragraph": "Tudo o que você precisa fazer é testar. Conheça um\nmundo de facilidades!",
+      "sub_paragraph": "Facilitou muito a organização dos moradores. Sou\nsíndico atualmente..."
+    },
+    "response": {
+      "input": {
+        "name": "Nome",
+        "email": "Email",
+        "phone": "Nº para contato",
+        "condominium_id": "Nome do condomínio"
+      },
+      "action": {
+        "label": "Enviar"
+      }
+    }
+  },
+  "newsSection": {
+    "title": "Acompanhe nossas",
+    "title_last": " notícias",
+    "sub_title": "Fique por dentro de todas as novidades do mundo da tecnologia para condomínios! ",
+    "action": {
+      "label": "Conferir mais notícias"
+    }
+  },
+  "newsletter": {
+    "title": "Inscreva-se na nossa Newsletter para receber conteúdos sobre casa,\nqualidade de vida, gestão de condomínios e todo o universo do Waiuru.",
+    "title_mobile": "Inscreva-se na nossa\nNewsletter",
+    "sub_title_mobile": "Receba conteúdos sobre casa,\nqualidade de vida, gestão de\ncondomínios e todo o universo do\nWaiuru.",
+    "action": {
+      "label": "Cadastrar"
+    },
+    "input": {
+      "email": "Seu email"
+    },
+    "message": "É gratuito."
+  },
+  "appsStores": {
+    "title": "Encontre nossos aplicativos nas lojas",
+    "sub_title": "Disponíveis na Apple Store e Play Store",
+    "list": {
+      "residents": {
+        "title": "Waiuru para Moradores",
+        "paragraph": "Posicione a câmera do seu celular para download"
+      },
+      "employees": {
+        "title": "Waiuru para Funcionários",
+        "paragraph": "Posicione a câmera do seu celular para download"
+      }
+    },
+    "action": "Ir para a loja"
+  },
+  "ourSolutions": {
+    "employee": {
+      "paragraph": "Gestão de funcionários",
+      "action": {
+        "label": "Ver app do funcionário"
+      }
+    },
+    "resident": {
+      "paragraph": "Todo o condomínio na palma da mão",
+      "action": {
+        "label": "Ver app do morador"
+      }
+    },
+    "admin": {
+      "paragraph": "Controle e segurança para a administração e síndicos",
+      "action": {
+        "label": "Ver sistema do administrador"
+      }
+    }
+  },
+  "footer": {
+    "about": "Sobre",
+    "who_we_are": "Quem somos",
+    "contact_us": "Fale conosco",
+    "become_an_affiliate": "Torne-se um afiliado",
+    "our_solutions": "Nossas soluções",
+    "condominium_administrator": "Administrador de condomínio",
+    "residents": "Moradores",
+    "employees": "Funcionários",
+    "news": "Notícias",
+    "connect_with_us": "Conecte-se com a gente",
+    "download_Waiuru": "Baixe o Waiuru",
+    "all_rights_reserved": "Todos os direitos reservados",
+    "privacy": "Privacidade",
+    "terms": "Termos"
+  },
+  "menu": {
+    "home_page": "Página inicial",
+    "solutions": "Nossas soluções",
+    "about": "Quem somos",
+    "news": "Notícias",
+    "actions": {
+      "register": "Cadastre-se",
+      "access": "Accessar"
+    }
+  },
+  "menu_screen": {
+    "title": "Clique em uma das opções",
+    "syndics": "Síndicos",
+    "residents": "Moradores",
+    "employees": "Funcionários"
+  },
+  "sub_menu": {
+    "syndics": "Para Administradores",
+    "residents": "Para Moradores",
+    "employees": "Para Funcionários"
+  },
+  "404": {
+    "title": "Ooops!",
+    "sub_title": "Página não encontrada",
+    "paragraph": "Está página não existe ou foi removida!",
+    "sub_paragraph": "Nós sugerimos que volte para home.",
+    "action": {
+      "label": "Voltar"
+    }
+  },
+  "cookie": {
+    "paragraph": "Este site usa cookies para garantir que você obtenha a melhor experiência em nosso site.",
+    "info": "Saber mais",
+    "action": {
+      "label": "Entendi"
+    }
+  },
+  "name_required": "Nome é obrigatório",
+  "email_required": "Email é obrigatório",
+  "phone_required": "Telefone é obrigatório",
+  "city_required": "Cidade é obrigatório",
+  "description_required": "Descrição é obrigatório",
+  "email_invalid": "Email inválido",
+  "months": {
+    "january": "janeiro",
+    "february": "fevereiro",
+    "march": "março",
+    "april": "abril",
+    "may": "maio",
+    "june": "junho",
+    "july": "julho",
+    "august": "agosto",
+    "september": "setembro",
+    "october": "outubro",
+    "november": "novembro",
+    "december": "dezembro"
+  }
+}

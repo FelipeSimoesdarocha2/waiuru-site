@@ -16,8 +16,9 @@
   </a>
 </p>
 
-![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+<img  src="/public/images/captura1.png" alt="captura1"  title="captura1" style="max-width: 100%;" />
+<img  src="/public/images/captura2.png" alt="captura2"  title="captura2" style="max-width: 100%;" />
+<img  src="/public/images/captura3.png" alt="captura3"  title="captura3" style="max-width: 100%;" />
 
 ## Screens
 

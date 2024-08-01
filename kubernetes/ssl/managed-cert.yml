@@ -1,0 +1,7 @@
+apiVersion: networking.gke.io/v1
+kind: ManagedCertificate
+metadata:
+  name: waiuru-managed-cert-waiuru-site-new
+spec:
+  domains:
+    - waiuru-condo-external-admin-uat.waiuru.com
